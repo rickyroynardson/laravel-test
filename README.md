@@ -11,4 +11,4 @@ Build with laravel 9 + TailwindCSS
 4. Run migration <br/>
 `php artisan migrate`
 5. Run <br/>
-`php artisan server` & `npm run dev`
+`php artisan serve` & `npm run dev`
